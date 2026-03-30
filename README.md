@@ -1,2 +1,2 @@
-# 114-JAVA-I
-JAVA coding practice
+# 114-1_Java_prac
+self coding learning
