@@ -5,9 +5,11 @@ public class q6_7 {
     public static void main(String[] args) {
         int arr[] ={12, 15, 8, 43};
         System.out.println("陣列arr反轉前，其元素有:");
+        
         for (int i = 0 ; i < arr.length ; i++){
             System.out.println("arr[" + i + "] =" + arr[i] + " ");
         }
+
         for(int i = 0; i < arr.length / 2; i++){
             int oppsiteIndex = arr.length - 1 - i; 
             // index symmetry;arr.length = 4;maxIndex =3;(0,3)(1,2)
