@@ -9,12 +9,10 @@ public class q7_30 {
     }
     public static int max(int a, int b, int c) {
     
-        if(b > a && b > c)
-            return b;
-        else if(c > b && c > a)
-            return c;
+        if(max(a,b) > c)
+            return max(a, b);
         else
-            return a;
+            return c;
         
     }
 
