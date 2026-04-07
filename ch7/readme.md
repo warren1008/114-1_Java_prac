@@ -16,7 +16,7 @@ step 3. vscode輸入指令
     (1)self-practice
         git clone https://github.com/warren1008/114-1_Java_prac.git
     (2)class folder
-        git clonehttps://github.com/warren1008/114_JAVA_I_hw
+        git clone https://github.com/warren1008/114_JAVA_I_hw.git
 
 step 4.vscode 下載套件:暫無
 
