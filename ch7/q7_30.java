@@ -9,11 +9,13 @@ public class q7_30 {
     }
     public static int max(int a, int b, int c) {
     
-        if(max(a,b) > c)
+        /*if(max(a,b) > c)
             return max(a, b);
         else
             return c;
-        
+        */
+        //再優化版本
+        return max(max(a,b),c);
     }
 
     public static int max(int a, int b) {
