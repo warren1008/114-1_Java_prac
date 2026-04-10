@@ -27,6 +27,7 @@ public class q7_12 {
         System.out.print("請設定陣列元素");
         
         for(int j = 0; j < array.length; j++){
+            System.out.printf("array[%d] : ", j);
             array[j] = scn.nextInt();
         }
         
