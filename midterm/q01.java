@@ -215,5 +215,8 @@ public class q01 {
         System.out.println("=====程式執行結束!!=====");
         }
         scn.close();
+
+
+        System.out.println("======");
     }
 }
